@@ -62,6 +62,8 @@ public class main {
         } catch (IOException e) {
             System.out.println("Erro ao redimensionar a imagem PGM: " + e.getMessage());
         }
+        
+    
                 
 	}
 
